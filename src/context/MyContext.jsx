@@ -51,7 +51,6 @@ export const MyProvider = ({ children }) => {
         } else {
           setResult(res.data.results);
           setPage(res.meta.page);
-          console.log(res);
         }
       }
     },
