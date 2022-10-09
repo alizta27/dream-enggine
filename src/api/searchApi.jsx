@@ -32,7 +32,7 @@ const searchApi = axios.create({
   baseURL: 'https://google-search-5.p.rapidapi.com/google',
   headers: {
     'content-type': 'application/json',
-    'X-RapidAPI-Key': 'd4832a2fa4msh7766c0520fefeaep12b490jsn3a9f1f0caf62',
+    'X-RapidAPI-Key': 'YOUR API KEY HERE',
     'X-RapidAPI-Host': 'google-search-5.p.rapidapi.com',
   },
 });
