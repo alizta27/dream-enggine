@@ -5,7 +5,7 @@
 This project was made with `React Query` as the asynchronous state management, `React useContext Hook` for the global state management and `Tailwind CSS` for the styling framework, also we need some powerful API to get some data, so you can check it here `https://rapidapi.com/serpsbot/api/google-search-5/` (don't forget to subscribe for using it). I also use infinite scrolling fetch in this project, you can check it on my code.
 
 I wanted to make a bookmark page for the news, so you can bookmark what ever news you want and see it on your list, but I need some energy to breath, hope you understand :(
-I'll improve it later.
+I'll improve it later. Let's play it here `https://afgoole-engine.web.app`
 
 ## Available Scripts
 
