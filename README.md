@@ -13,6 +13,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Don't forget to put your rapid API Key on `src/api/searchApi.jsx`
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
