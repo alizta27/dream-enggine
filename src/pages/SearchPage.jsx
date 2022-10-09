@@ -29,7 +29,7 @@ const SearchPage = () => {
     conditionalsGet(searchDefault, searchImage, searchNews);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchDefault, searchImage, searchNews]);
-  console.log(result, '==== result ========');
+
   if (!loading) {
     return (
       <div className="flex flex-col h-full w-full bg-primary-800">
